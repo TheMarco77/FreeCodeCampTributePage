@@ -4,5 +4,8 @@ body {
 img {
     max-width: 100%;
     min-width: 95%;
-    
+}
+.container {
+    background-color: #EEEEEE;
+    border-radius: 1%;
 }
