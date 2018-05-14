@@ -6,6 +6,24 @@ img {
     min-width: 95%;
 }
 .container {
-    background-color: #EEEEEE;
+    background-color: #FAEBD7;
     border-radius: 1%;
 }
+
+.position {
+    margin-top: 82%; 
+    margin-left: 21%;
+}
+  
+.quote {
+    font-family: 'Neucha', cursive;
+    color: #808080;
+    margin-left: 2%;
+}
+
+/*.position { 
+    top: 20%;
+    right: auto;
+    bottom: auto;
+    left: 10%;
+}*/
