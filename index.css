@@ -9,12 +9,12 @@ img {
     background-color: #FAEBD7;
     border-radius: 1%;
 }
-
 .position {
-    margin-top: 82%; 
+    margin-top: 90%;
     margin-left: 21%;
+    margin-right: 10%
 }
-  
+
 .quote {
     font-family: 'Neucha', cursive;
     color: #808080;
@@ -26,4 +26,6 @@ img {
     right: auto;
     bottom: auto;
     left: 10%;
+    margin-top: 82%;
+    margin-left: 21%;
 }*/
